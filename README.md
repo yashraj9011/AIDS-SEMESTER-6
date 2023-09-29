@@ -30,9 +30,9 @@ Courses that I have studied during third year of my engineering offered by Depar
 >> 317537B| Audit Course 6 : Sustainable Energy Systems | Prof. Apurva Mane
 
 ##   Presentation 
->>   Activity | Repository
->>   --- | ---
->>   Internship | [Link](https://github.com/yashraj9011/Seminar-Details.git)
+>>   Activity | Organization & Domain | Repository
+>>   --- | --- | ---
+>>   Internship| Lets Grow More - Data Science | [Link](https://github.com/yashraj9011/Seminar-Details.git)
 
 I have studied 5 Courses during 6th Semester of engineering offered by Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
