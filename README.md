@@ -32,7 +32,7 @@ Courses that I have studied during third year of my engineering offered by Depar
 ##   Presentation 
 >>   Activity | Organization & Domain | Repository
 >>   --- | --- | ---
->>   Internship| Lets Grow More - Data Science | [Link](https://github.com/yashraj9011/Seminar-Details.git)
+>>   Internship| Lets Grow More - Data Science | [Link](https://github.com/yashraj9011/LGM-Data-Science-Internship-.git)
 
 I have studied 5 Courses during 6th Semester of engineering offered by Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
