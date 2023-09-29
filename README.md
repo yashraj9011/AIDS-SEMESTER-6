@@ -8,7 +8,7 @@ Courses that I have studied during third year of my engineering offered by Depar
 
 
 `Semester:` 6<sup>th</sup> Sem  
-`Session:` June 2022 - November 2022   
+`Session:` February 2023 - June 2023 
 `Mode:` Offline 
 
 
@@ -68,7 +68,7 @@ pattern mapping tasks .
 
 
 
-# 310254(D) - Software Modeling and Architecture
+# 310254D - Software Modeling and Architecture
  
 - Introduction to Software Modeling , Advantages , Principles , Evolution of Software Modeling and Design Methods , Object oriented analysis and
 design methods , 4+1 architecture , Introduction to UML , UML building Blocks , COMET , Requirement Analysis, SRS design, Requirements Modeling , Use Case - Actor and Use case identification, Use case relationship , Use case template .
