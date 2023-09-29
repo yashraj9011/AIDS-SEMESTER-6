@@ -46,9 +46,9 @@ Also implemented Laboratory Assignments of the Courses.
 -  Introduction , Need , Relationships , Applications of Data Science , Data Wrangling Methods . 
 -  Statistical Inference , statistics in Data Science , Basics and need of hypothesis and hypothesis testing .   
 -  Data Analytics Life Cycle , Phase 1: Discovery, Phase 2: Data Preparation , Phase 3: Model Planning , Phase 4: Model Building , Phase 5: Communication results , Phase 6: Operationalize. GINA (Global Innovation Social Network and Analysis) case study .
--  Predictive Data Analytics with Python , Python Libraries , Association Rules: Apriori Algorithm, FP growth . Regression , Classification , Introduction to     Scikit-learn , Regression and Classification using Scikit-learn .
-- Data Analytics and Model Evaluation , Clustering Algorithms , Text-preprocessing , TF-IDF , Model Evaluation and Selection , Confusion matrix, AUC-ROC Curves , Elbow plot . 
--  Data Visualization and Hadoop , Introduction , Types , Tools , Challenges , Analytical techniques , Hadoop ecosystem , Map Reduce, Pig , Hive , Data Visualization using Python .
+-  Predictive Data Analytics with Python , Python Libraries , Association Rules: Apriori Algorithm, FP growth . Regression , Classification , Introduction to  Scikit-learn , Regression and Classification using Scikit-learn .
+- Data Analytics and Model Evaluation , Clustering Algorithms , Text-preprocessing , TF-IDF , Model Evaluation and Selection , Confusion matrix , AUC-ROC Curves , Elbow plot . 
+-  Data Visualization and Hadoop , Introduction , Types , Tools , Challenges , Analytical techniques , Hadoop ecosystem , Map Reduce , Pig , Hive , Data Visualization using Python .
   
 # 317530 - Cyber Security
 -  Introduction, Elements of Information Security , Security Policy , Basic Terminologies in Network Security .
@@ -64,8 +64,7 @@ Also implemented Laboratory Assignments of the Courses.
 
 - Introduction to ANN , History of NN , Comparison of Biological Neural Network and Artificial Neural Network , Neural Network Architecture , Features , Characteristics , Types , Activation functions , MP Model , Adaline and Madaline Model , Applications of neural networks .
 - Learning and Memory , Learning Algorithms , Error Correction and Gradient Decent Rules , Perceptron , Backpropagation , Multilayered Network Architectures , Feed forward and feedback .
-- Associative Learning , Hopfield network , Error Performance in Hopfield networks , Simulated Annealing , Boltzmann machine and Boltzmann learning , Pattern association, pattern classification and
-pattern mapping tasks .
+- Associative Learning , Hopfield network , Error Performance in Hopfield networks , Simulated Annealing , Boltzmann machine and Boltzmann learning , Pattern association , pattern classification and pattern mapping tasks .
 - Competitive Learning Neural Network , Components , Pattern clustering and feature mapping , ART networks , Self-Organization Maps (SOM) , Computer Simulations , Learning Vector Quantization , Adaptive Pattern Classification .
 - Convolution Neural Network , Building blocks , Architectures , pooling layers , Padding , SoftMax regression , Deep Learning frameworks , Transfer learning , multi-task learning , Introduction to CNN models: LeNet – 5 , AlexNet , VGG – 16 , Residual Networks .
 - Applications of ANN , Pattern classification – Recognition of Olympic games symbols , Recognition of printed Characters , Neocognitron – Recognition of handwritten characters , NET Talk: to convert English text to speech , Recognition of consonant vowel (CV) segments , texture classification and segmentation .
