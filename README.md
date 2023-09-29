@@ -7,9 +7,9 @@ Repository contains Handwritten Notes , Assignments , Reference books and other 
 Courses that I have studied during third year of my engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati.
 
 
-`Semester:` 6<sup>th</sup> Sem  
-`Session:` February 2023 - June 2023 
-`Mode:` Offline 
+- `Semester:` 6<sup>th</sup> Sem  
+- `Session:` February 2023 - June 2023 
+- `Mode:` Offline 
 
 
 
