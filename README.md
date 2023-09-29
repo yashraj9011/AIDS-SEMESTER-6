@@ -34,6 +34,10 @@ Courses that I have studied during third year of my engineering offered by Depar
 >>   --- | ---
 >>   Internship | [Link](https://github.com/yashraj9011/Seminar-Details.git)
 
+I have studied 5 Courses during 6th Semester of engineering offered by Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
+
+Also implemented Laboratory Assignments of the Courses.
+
 
 
 
