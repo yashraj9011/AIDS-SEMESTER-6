@@ -2,9 +2,9 @@
 # Third Year- VPKBIET
 
 
-Repository contains Handwritten Notes , Assignments , Reference books and other material I prepared during the semester.  
+Repository contains Handwritten Notes , Assignments material prepared by me , Certificates Earned and also Reference Books that I referred during the Semester.  
 
-Courses that I have studied during third year of my engineering offered by the Department of Artificial Intelligence and Data Science, VPKBIET Baramati.
+Courses that I have studied during third year of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati.
 
 
 - `Semester:` 6<sup>th</sup> Sem  
