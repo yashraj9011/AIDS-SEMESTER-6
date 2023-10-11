@@ -1,5 +1,6 @@
 # data science
 
-## Sessions and Prograns  Attended
+## Sessions and Programs  Attended
 
+![Logo]()
 
