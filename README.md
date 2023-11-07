@@ -34,7 +34,7 @@ Courses that I have studied during third year of my engineering offered by the D
 >>   --- | --- | --- | ---
 >>   Internship| Lets Grow More | Data Science | [Link](https://github.com/yashraj9011/IBM-Internship-TEAM-AI16-ENIGMA.git)
 >>   Workshop | Department | Personality Development | [Link](https://github.com/yashraj9011/Workshop-on-Why-Should-You-Hired-For-Job.git)
->>   Msterclass | Bosscoder Academy | Machine Learning | [Link]()
+>>   Masterclass | Bosscoder Academy | Machine Learning | [Link]()
 
 
 I have studied 4 Courses during 6th Semester of engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
@@ -82,6 +82,6 @@ design methods , 4+1 architecture , Introduction to UML , UML building Blocks , 
 - Object diagram , Package diagram , Component diagram , Composite Structure diagram , Deployment Diagram .
 - Dynamic Modeling , Activity diagram , Different Types of nodes , Control flow , Activity Partition , Interaction diagram: Sequence diagram , Interaction Overview diagram , State machine diagram , Advanced State Machine diagram , Communication diagram , Timing diagram .
   
-These are some keypoints which gives idea of curriculam that I studied in even semester! 
+These are some keypoints which gives idea of curriculam that I studied in even semester ! 
  
-Cheers!  
+Cheers !  
