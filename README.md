@@ -59,7 +59,7 @@ Also implemented Laboratory Assignments of Software Laboratory 2 , Software Labo
 -  Public Key And Management , Public Key Cryptography , RSA Algorithm , Elliptic Curve , X.509 Authentication service , Digital Signatures Standards .
 -  Security Requirements , IP Security , IPSec protocols , ISAKMP Protocol , VPN , WEB Security , Secure Socket Layer (SSL) , Handshake Protocol , MIME , S/MIME .
 -  Firewall And Intrusion , Firewall Introduction , Firewall architecture , Intrusion Detection System , Limitations and Challenges .
--  Cyber Forensic , Hacking & its countermeasures , Personally Identifiable Information (PII) , Cyber Stalking , Cybercrime , Information Protection Laws , Ethical Hacking . 
+-  Cyber Forensic , Hacking & its countermeasures , Personally Identifiable Information (PII) , Cyber Stalking , Cybercrime , Information Protection Laws , Ethical Hacking. 
   
       
 
