@@ -33,7 +33,7 @@ Courses that I have studied during third year of my engineering offered by the D
 >>   Activity | Organization | Domain | Repository
 >>   --- | --- | --- | ---
 >>   Internship| Lets Grow More | Data Science | [Link](https://github.com/yashraj9011/IBM-Internship-TEAM-AI16-ENIGMA.git)
->>   Workshop | Department | Personality Development | [Link](https://github.com/yashraj9011/Workshop-on-Why-Should-You-Hired-For-Job.git)
+>>   Workshop | IT Department | Personality Development | [Link](https://github.com/yashraj9011/Workshop-on-Why-Should-You-Hired-For-Job.git)
 >>   Masterclass | Bosscoder Academy | Machine Learning | [Link](https://github.com/yashraj9011/Masterclass-on-Netflix-Recommendation-System.git)
 
 
