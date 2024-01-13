@@ -81,6 +81,16 @@ design methods , 4+1 architecture , Introduction to UML , UML building Blocks , 
 - Static Modeling , analysis level and design level classes , Methods for identification of classes , Rational Unified Process , Class , Responsibilities and Collaboration , Class Diagram: Relationship between classes .
 - Object diagram , Package diagram , Component diagram , Composite Structure diagram , Deployment Diagram .
 - Dynamic Modeling , Activity diagram , Different Types of nodes , Control flow , Activity Partition , Interaction diagram: Sequence diagram , Interaction Overview diagram , State machine diagram , Advanced State Machine diagram , Communication diagram , Timing diagram .
+- Introduction to Software Architecture, Importance of Software Architecture, Architectural Structure
+and Views. Architectural Pattern: common module, Common component-and-connector,
+Common allocation. Quality Attributes: Architecture and Requirements, Quality Attributes and Considerations
+- Architecture in the Life Cycle: Architecture in Agile Projects, Architecture and Requirements,
+Designing an Architecture. Documenting Software Architecture: Notations, Choosing and
+Combining views, Building the documentation Package, Documenting Behavior, Documenting
+Architecture in an Agile Development Project .
+- Design Patterns: Introduction, Different approaches to select Design Patterns. Creational
+patterns: Singleton, Factory, Structural pattern: Adapter, Proxy. Behavioral Patterns: Iterator,
+Observer Pattern with applications.
   
 These are some keypoints which gives idea of curriculam that I studied in even semester ! 
  
